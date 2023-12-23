@@ -61,14 +61,14 @@ padding: 50px 240px 0px 97px;
 }
 .sec2head{
     color: #272727;
-    width: 392px;
+    /* width: 392px; */
 text-align: center;
 font-family: Lato;
 font-size: 40px;
 font-style: normal;
 font-weight: 800;
 line-height: normal;
-padding: 178px 764px 0px 764px;
+padding: 178px 0px 0px 0px;
 }
 .sec2para{
     color: rgba(39, 39, 39, 0.60);
