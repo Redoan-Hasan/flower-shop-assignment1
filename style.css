@@ -416,6 +416,7 @@ line-height: normal;
 .btn4{
 padding: 10px 10px 10px 10px;
 margin-left: 20px;
+background-color: mediumslateblue;
 }
 .bonusheading{
     color: #272727;
@@ -437,7 +438,8 @@ padding: 10px 10px 10px 20px;
     width: 1922px;
     background-color: paleturquoise;
     text-align: center;
-    color: mediumslateblue;
+    /* color: mediumslateblue; */
+    color: darkorchid;
     font-size: 50px;
     padding-top: 40px;
 }
