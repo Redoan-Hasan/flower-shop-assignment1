@@ -411,7 +411,7 @@ line-height: normal;
     height: 620px;
     border-radius: 8px;
     background: paleturquoise;
-    margin-bottom: 200px;
+    margin-bottom: 250px;
 }
 .btn4{
 padding: 10px 10px 10px 10px;
@@ -434,6 +434,7 @@ font-style: normal;
 padding: 10px 10px 10px 20px;
 }
 .special{
+    width: 1922px;
     background-color: paleturquoise;
     text-align: center;
     color: mediumslateblue;
